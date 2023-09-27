@@ -23,4 +23,4 @@ Delve deeper into neural networks by exploring perceptrons, multi-layer perceptr
 
 ## What's Next?
 
-Please Visit my Website to see more [COD Crafters NLP Course] (https://www.codcrafters.com/slides/natural-language-processing-19)
+Please Visit my Website to see more [COD Crafters NLP Course](https://www.codcrafters.com/slides/natural-language-processing-19)
